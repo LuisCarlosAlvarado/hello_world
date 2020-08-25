@@ -7,4 +7,4 @@ Ahora lo hago para ver el cambio en Gitkraken, espero que funcione
 
 Se podrá modificar desde aquí?
 
-Sigo haciendo cambios para comprobar que aprendí
+Sigo haciendo cambios para comprobar que aprendí :)
