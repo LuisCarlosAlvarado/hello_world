@@ -10,3 +10,5 @@ Se podrá modificar desde aquí?
 Sigo haciendo cambios para comprobar que aprendí :)
 
 Al fin aprendí!!!, sólo me tomó 3 materias, creo que empiezo a agarrarle la onda, ya sólo mando de aquí para allá
+
+Comprobando 1 día después
